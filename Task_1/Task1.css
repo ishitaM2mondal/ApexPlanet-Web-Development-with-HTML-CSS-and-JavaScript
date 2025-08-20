@@ -63,6 +63,7 @@ img {
   height: 300px;
   margin: 20px auto;
   display: block;
+  border:1px solid violet;
   border-radius: 15px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   transition: transform 0.4s ease;
