@@ -1,7 +1,7 @@
-# 🌐 Web Development Internship – ApexPlanet  
+# 🐾 Tail-Wagging Goodness- Paws $ Tails Pet Food Shop Website  
 
-This repository contains my project submissions for the **Web Development Internship at ApexPlanet Software Pvt. Ltd.**  
-Each task focuses on building practical skills in **HTML, CSS, JavaScript, and frontend development workflows**.  
+This project is a simple **Pet Food Store landing page** built using **HTML, CSS, and JavaScript**.  
+It demonstrates how to design a clean, modern, and interactive webpage that highlights products in a pet-friendly style.  
 
 ---
 
@@ -16,27 +16,25 @@ Each task focuses on building practical skills in **HTML, CSS, JavaScript, and f
 
 ---
 
-
 ## 🛠️ Technologies Used  
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (ES6)**  
-- *(Future tasks may include frameworks/libraries)*  
+- **HTML5** → Page Structure  
+- **CSS3** → Styling, Animations, and Responsiveness  
+- **JavaScript (Vanilla JS)** → Basic Interactivity  
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Project Structure  
 ```
-├── Task1/          # Task 1 files (HTML, CSS, JS, assets)
-├── Task2/          # Task 2 files (to be added)
-├── Task3/          # Task 3 files (to be added)
-└── README.md       # Internship documentation
+PetFoodStore/
+│── index.html # Main HTML file
+│── Task1.css # Stylesheet
+│── Task1.js # JavaScript file
+│── petfood.webp # Pet food image
+│── README.md # Documentation
 ```
-
----
-
 
 ## 🎯 Learning Outcomes
+
 - Strengthened frontend development skills
 
 - Practical exposure to responsive design and UI/UX principles
@@ -45,7 +43,6 @@ Each task focuses on building practical skills in **HTML, CSS, JavaScript, and f
 
 - Documented progress across multiple tasks for industry-ready experience
 
----
 
 ## 🙏 Acknowledgement
 

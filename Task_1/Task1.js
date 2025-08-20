@@ -1,3 +1,3 @@
 function showMessage(){
-    alert("Welcome!")
+    alert("🐾 Thank you for visiting Paws & Tails! Your pets deserve the best ❤️");
 }
