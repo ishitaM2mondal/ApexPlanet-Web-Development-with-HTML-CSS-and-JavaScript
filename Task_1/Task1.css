@@ -7,8 +7,13 @@ body {
   color: #333;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; 
+  background:
+          url("pet bg.jpg") no-repeat bottom center,
+          linear-gradient(white 70%, rgb(152, 210, 234, 0.8) 100%);
   min-height: 100vh;
+  background-blend-mode: light;
+  background-size: 100%;
 }
 
 /* Container */
@@ -16,7 +21,7 @@ body {
   max-width: 1000px;
   padding: 30px;
   border-radius: 20px;
-  background: #ffffff;
+  /* background: #ffffff; */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   text-align: center;
   animation: fadeIn 1.2s ease-in-out;
@@ -63,11 +68,11 @@ img {
   height: 300px;
   margin: 20px auto;
   display: block;
-  border:1px solid violet;
   border-radius: 15px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   transition: transform 0.4s ease;
   animation: floatImage 4s ease-in-out infinite;
+  border:1px solid violet;
 }
 
 img:hover {
@@ -79,13 +84,13 @@ img:hover {
   display: block;
   margin-top: 15px;
   font-size: 18px;
-  color: #37ab3d;
+  color:  rgb(5, 106, 53);
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 650;
 }
 
 .web-link span {
-  color: #ff6f00;
+  color:orangered;
   transition: all 0.3s ease;
 }
 
